@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Plank Variation Step 2 - Hold Strong Line</title>
+  <desc id="desc">Athlete maintains a straight body line while bracing abdominals and glutes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#effff6"/>
+      <stop offset="100%" stop-color="#d8f9e8"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 56px 'Barlow', Arial, sans-serif; fill: #052e16; }
+      .sub { font: 500 30px 'Barlow', Arial, sans-serif; fill: #166534; }
+      .label { font: 600 27px 'Barlow', Arial, sans-serif; fill: #052e16; }
+      .hint { font: 500 24px 'Barlow', Arial, sans-serif; fill: #14532d; }
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#16a34a" />
+    </marker>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <rect x="40" y="40" width="820" height="1120" rx="36" fill="#fff" stroke="#bbf7d0" stroke-width="4"/>
+  <text x="80" y="130" class="title">Step 2: Brace and Hold</text>
+  <text x="80" y="178" class="sub">Pull ribs down and squeeze glutes</text>
+  <line x1="120" y1="980" x2="780" y2="980" stroke="#4b5563" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="330" cy="600" r="48" fill="#f8c9a1" stroke="#334155" stroke-width="5"/>
+  <line x1="365" y1="620" x2="560" y2="650" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="560" y1="650" x2="730" y2="700" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="730" y1="700" x2="790" y2="860" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="430" y1="640" x2="370" y2="750" stroke="#0f172a" stroke-width="14" stroke-linecap="round"/>
+  <line x1="470" y1="646" x2="420" y2="760" stroke="#0f172a" stroke-width="14" stroke-linecap="round"/>
+  <ellipse cx="370" cy="760" rx="34" ry="10" fill="#1e293b"/>
+  <ellipse cx="420" cy="770" rx="34" ry="10" fill="#1e293b"/>
+  <ellipse cx="790" cy="870" rx="38" ry="12" fill="#1e293b"/>
+  <line x1="620" y1="650" x2="560" y2="650" stroke="#16a34a" stroke-width="6" marker-end="url(#arrow)"/>
+  <text x="620" y="640" class="label">Straight line</text>
+  <line x1="620" y1="840" x2="550" y2="845" stroke="#16a34a" stroke-width="6" marker-end="url(#arrow)"/>
+  <text x="620" y="830" class="label">Glutes on</text>
+  <text x="80" y="1080" class="hint">Avoid hip sag or piking while breathing slowly.</text>
+</svg>

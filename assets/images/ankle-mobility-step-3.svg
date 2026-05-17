@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="t d">
+  <title id="t">Ankle Mobility Step 3 - Repeat Controlled Reps</title>
+  <desc id="d">Athlete repeats smooth ankle pulses while keeping balance and posture.</desc>
+  <defs>
+    <style>.label { font: 600 27px Arial; fill: #7c2d12; } .hint { font: 500 24px Arial; fill: #9a3412; }</style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><polygon points="0,0 10,5 0,10" fill="#ea580c"/></marker>
+  </defs>
+  <rect width="900" height="1200" fill="#fff2e8"/>
+  <rect x="40" y="40" width="820" height="1120" rx="28" fill="#fff" stroke="#fed7aa" stroke-width="4"/>
+  <text x="80" y="130" font-size="52" font-family="Arial" font-weight="700" fill="#7c2d12">Step 3: Controlled Pulses</text>
+  <text x="80" y="185" font-size="30" font-family="Arial" fill="#c2410c">Slow reps to improve range of motion</text>
+  <line x1="120" y1="980" x2="780" y2="980" stroke="#64748b" stroke-width="8"/>
+  <circle cx="470" cy="380" r="56" fill="#f8c9a1" stroke="#334155" stroke-width="5"/>
+  <line x1="470" y1="436" x2="455" y2="665" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="455" y1="665" x2="375" y2="800" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="455" y1="665" x2="560" y2="790" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="375" y1="800" x2="345" y2="960" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="560" y1="790" x2="620" y2="960" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="620" y1="760" x2="560" y2="790" stroke="#ea580c" stroke-width="6" marker-end="url(#arrow)"/>
+  <text x="620" y="750" class="label">Small pulses</text>
+  <text x="80" y="1080" class="hint">Use 8-12 smooth reps each side before switching.</text>
+</svg>

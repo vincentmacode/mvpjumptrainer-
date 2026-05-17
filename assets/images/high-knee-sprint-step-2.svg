@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="t d">
+  <title id="t">High-Knee Sprint Step 2 - Explosive Knee Drive</title>
+  <desc id="d">Athlete drives one knee to hip height while opposite arm punches, keeping dorsiflexed ankle and strong stance leg.</desc>
+  <defs>
+    <style>
+      .title { font: 700 52px Arial, sans-serif; fill: #052e16; }
+      .subtitle { font: 30px Arial, sans-serif; fill: #166534; }
+      .label { font: 24px Arial, sans-serif; fill: #14532d; font-weight: 700; }
+      .hint { font: 24px Arial, sans-serif; fill: #166534; }
+    </style>
+    <marker id="arrow-green" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#16a34a"/>
+    </marker>
+  </defs>
+
+  <rect width="900" height="1200" fill="#eafced"/>
+  <rect x="40" y="40" width="820" height="1120" rx="28" fill="#ffffff" stroke="#bbf7d0" stroke-width="4"/>
+
+  <text class="title" x="80" y="130">Step 2: Knee Drive</text>
+  <text class="subtitle" x="80" y="185">Punch knee up fast while opposite arm drives forward</text>
+
+  <line x1="120" y1="980" x2="780" y2="980" stroke="#4b5563" stroke-width="8"/>
+
+  <circle cx="478" cy="330" r="52" fill="#f8c9a1" stroke="#334155" stroke-width="5"/>
+  <line x1="478" y1="382" x2="476" y2="620" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+
+  <line x1="476" y1="470" x2="405" y2="560" stroke="#0f172a" stroke-width="14" stroke-linecap="round"/>
+  <line x1="476" y1="470" x2="556" y2="548" stroke="#0f172a" stroke-width="14" stroke-linecap="round"/>
+  <line x1="405" y1="560" x2="372" y2="655" stroke="#0f172a" stroke-width="14" stroke-linecap="round"/>
+  <line x1="556" y1="548" x2="590" y2="640" stroke="#0f172a" stroke-width="14" stroke-linecap="round"/>
+
+  <line x1="476" y1="620" x2="420" y2="770" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="420" y1="770" x2="385" y2="945" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="476" y1="620" x2="560" y2="705" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="560" y1="705" x2="650" y2="700" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+
+  <ellipse cx="385" cy="952" rx="42" ry="13" fill="#15803d"/>
+  <ellipse cx="654" cy="700" rx="37" ry="13" fill="#4ade80"/>
+
+  <line x1="656" y1="624" x2="564" y2="702" stroke="#16a34a" stroke-width="5" marker-end="url(#arrow-green)"/>
+  <text class="label" x="666" y="616">Knee reaches hip height</text>
+
+  <line x1="210" y1="518" x2="368" y2="642" stroke="#16a34a" stroke-width="5" marker-end="url(#arrow-green)"/>
+  <text class="label" x="92" y="512">Back arm drives hard</text>
+
+  <line x1="630" y1="830" x2="405" y2="946" stroke="#16a34a" stroke-width="5" marker-end="url(#arrow-green)"/>
+  <text class="label" x="636" y="824">Support leg stiff and quick</text>
+
+  <line x1="720" y1="748" x2="655" y2="700" stroke="#16a34a" stroke-width="5" marker-end="url(#arrow-green)"/>
+  <text class="label" x="728" y="746">Toe up (dorsiflexed)</text>
+
+  <rect x="88" y="1030" width="724" height="88" rx="16" fill="#dcfce7"/>
+  <text class="hint" x="112" y="1085">Cue: "Knee up, toe up, strike down fast"</text>
+</svg>

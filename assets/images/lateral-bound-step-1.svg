@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Lateral Bound Step 1 - Load On One Leg</title>
+  <desc id="desc">Athlete balances on one leg with hips back and opposite leg ready to drive across for a side jump.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#eef6ff" />
+      <stop offset="100%" stop-color="#d9e9ff" />
+    </linearGradient>
+    <style>
+      .title { font: 700 56px 'Barlow', Arial, sans-serif; fill: #0f172a; }
+      .subtitle { font: 500 30px 'Barlow', Arial, sans-serif; fill: #1e3a8a; }
+      .label { font: 600 28px 'Barlow', Arial, sans-serif; fill: #0f172a; }
+      .hint { font: 500 24px 'Barlow', Arial, sans-serif; fill: #334155; }
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#2563eb" />
+    </marker>
+  </defs>
+
+  <rect width="900" height="1200" fill="url(#bg)" />
+  <rect x="40" y="40" width="820" height="1120" rx="36" fill="#ffffff" stroke="#bfdbfe" stroke-width="4" />
+
+  <text x="80" y="130" class="title">Step 1: Single-Leg Load</text>
+  <text x="80" y="178" class="subtitle">Sit into hip, keep knee aligned over planted foot</text>
+
+  <line x1="110" y1="980" x2="790" y2="980" stroke="#64748b" stroke-width="8" stroke-linecap="round" />
+
+  <circle cx="390" cy="420" r="60" fill="#f8c9a1" stroke="#334155" stroke-width="5" />
+  <line x1="390" y1="480" x2="365" y2="700" stroke="#0f172a" stroke-width="16" stroke-linecap="round" />
+
+  <line x1="378" y1="550" x2="280" y2="640" stroke="#0f172a" stroke-width="14" stroke-linecap="round" />
+  <line x1="378" y1="550" x2="470" y2="610" stroke="#0f172a" stroke-width="14" stroke-linecap="round" />
+
+  <line x1="365" y1="700" x2="300" y2="830" stroke="#0f172a" stroke-width="16" stroke-linecap="round" />
+  <line x1="300" y1="830" x2="280" y2="960" stroke="#0f172a" stroke-width="16" stroke-linecap="round" />
+
+  <line x1="365" y1="700" x2="500" y2="760" stroke="#0f172a" stroke-width="16" stroke-linecap="round" />
+  <line x1="500" y1="760" x2="600" y2="800" stroke="#0f172a" stroke-width="16" stroke-linecap="round" />
+
+  <ellipse cx="280" cy="970" rx="48" ry="14" fill="#1e293b" />
+  <ellipse cx="600" cy="810" rx="48" ry="14" fill="#1e293b" />
+
+  <line x1="620" y1="790" x2="705" y2="790" stroke="#2563eb" stroke-width="6" marker-end="url(#arrow)" />
+  <text x="620" y="770" class="label">Free leg ready</text>
+
+  <line x1="110" y1="840" x2="255" y2="845" stroke="#2563eb" stroke-width="6" marker-end="url(#arrow)" />
+  <text x="80" y="825" class="label">Load hip</text>
+
+  <text x="80" y="1080" class="hint">Brace core before pushing laterally to the other side.</text>
+</svg>

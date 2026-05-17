@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="t d">
+  <title id="t">Hip Flexor and Glute Mobility Step 3 - Glute Squeeze</title>
+  <desc id="d">Athlete squeezes rear glute to deepen stretch and improve hip extension.</desc>
+  <defs>
+    <style>.label { font: 600 27px Arial; fill: #7c2d12; } .hint { font: 500 24px Arial; fill: #9a3412; }</style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><polygon points="0,0 10,5 0,10" fill="#ea580c"/></marker>
+  </defs>
+  <rect width="900" height="1200" fill="#fff2e8"/>
+  <rect x="40" y="40" width="820" height="1120" rx="28" fill="#fff" stroke="#fed7aa" stroke-width="4"/>
+  <text x="80" y="130" font-size="52" font-family="Arial" font-weight="700" fill="#7c2d12">Step 3: Glute Engagement</text>
+  <text x="80" y="185" font-size="30" font-family="Arial" fill="#c2410c">Squeeze glute and hold 2-3 seconds</text>
+  <line x1="120" y1="980" x2="780" y2="980" stroke="#64748b" stroke-width="8"/>
+  <circle cx="500" cy="395" r="56" fill="#f8c9a1" stroke="#334155" stroke-width="5"/>
+  <line x1="500" y1="451" x2="500" y2="675" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="500" y1="675" x2="590" y2="820" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="590" y1="820" x2="650" y2="960" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="500" y1="675" x2="410" y2="830" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <ellipse cx="410" cy="840" rx="54" ry="14" fill="#1e293b"/>
+  <line x1="630" y1="690" x2="560" y2="750" stroke="#ea580c" stroke-width="6" marker-end="url(#arrow)"/>
+  <text x="630" y="680" class="label">Glute squeeze</text>
+  <text x="80" y="1080" class="hint">Hold 2-3 seconds, then reset and repeat.</text>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="t d">
+  <title id="t">High-Knee Sprint Step 3 - Fast Alternating Rhythm</title>
+  <desc id="d">Athlete cycles legs rapidly with short ground contacts, level hips, and synchronized arm drive.</desc>
+  <defs>
+    <style>
+      .title { font: 700 52px Arial, sans-serif; fill: #7c2d12; }
+      .subtitle { font: 30px Arial, sans-serif; fill: #c2410c; }
+      .label { font: 24px Arial, sans-serif; fill: #9a3412; font-weight: 700; }
+      .hint { font: 24px Arial, sans-serif; fill: #9a3412; }
+    </style>
+    <marker id="arrow-orange" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#ea580c"/>
+    </marker>
+  </defs>
+
+  <rect width="900" height="1200" fill="#fff2e8"/>
+  <rect x="40" y="40" width="820" height="1120" rx="28" fill="#ffffff" stroke="#fed7aa" stroke-width="4"/>
+
+  <text class="title" x="80" y="130">Step 3: Rapid Rhythm</text>
+  <text class="subtitle" x="80" y="185">Switch quickly with short contacts and stable hips</text>
+
+  <line x1="120" y1="980" x2="780" y2="980" stroke="#64748b" stroke-width="8"/>
+
+  <circle cx="500" cy="328" r="52" fill="#f8c9a1" stroke="#334155" stroke-width="5"/>
+  <line x1="500" y1="380" x2="500" y2="620" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+
+  <line x1="500" y1="468" x2="434" y2="560" stroke="#0f172a" stroke-width="14" stroke-linecap="round"/>
+  <line x1="500" y1="468" x2="580" y2="540" stroke="#0f172a" stroke-width="14" stroke-linecap="round"/>
+  <line x1="434" y1="560" x2="404" y2="646" stroke="#0f172a" stroke-width="14" stroke-linecap="round"/>
+  <line x1="580" y1="540" x2="616" y2="630" stroke="#0f172a" stroke-width="14" stroke-linecap="round"/>
+
+  <line x1="500" y1="620" x2="442" y2="764" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="442" y1="764" x2="382" y2="868" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="500" y1="620" x2="586" y2="740" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="586" y1="740" x2="655" y2="832" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+
+  <ellipse cx="382" cy="876" rx="40" ry="13" fill="#c2410c"/>
+  <ellipse cx="659" cy="840" rx="40" ry="13" fill="#fb923c"/>
+
+  <path d="M350 904 Q308 868 350 830" fill="none" stroke="#ea580c" stroke-width="6" marker-end="url(#arrow-orange)"/>
+  <path d="M695 864 Q737 828 695 790" fill="none" stroke="#ea580c" stroke-width="6" marker-end="url(#arrow-orange)"/>
+
+  <line x1="690" y1="622" x2="592" y2="742" stroke="#ea580c" stroke-width="5" marker-end="url(#arrow-orange)"/>
+  <text class="label" x="700" y="616">Knees cycle quickly</text>
+
+  <line x1="206" y1="560" x2="401" y2="646" stroke="#ea580c" stroke-width="5" marker-end="url(#arrow-orange)"/>
+  <text class="label" x="92" y="552">Arms match leg rhythm</text>
+
+  <line x1="660" y1="910" x2="388" y2="874" stroke="#ea580c" stroke-width="5" marker-end="url(#arrow-orange)"/>
+  <text class="label" x="666" y="904">Ground contact stays short</text>
+
+  <line x1="198" y1="430" x2="495" y2="620" stroke="#ea580c" stroke-width="5" marker-end="url(#arrow-orange)"/>
+  <text class="label" x="88" y="420">Hips stay level</text>
+
+  <rect x="88" y="1030" width="724" height="88" rx="16" fill="#ffedd5"/>
+  <text class="hint" x="112" y="1085">Cue: "Fast feet, tall hips, attack the ground"</text>
+</svg>

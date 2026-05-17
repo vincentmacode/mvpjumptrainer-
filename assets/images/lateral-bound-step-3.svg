@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Lateral Bound Step 3 - Stick And Stabilize</title>
+  <desc id="desc">Athlete lands on one leg and controls the knee and hip before repeating to the other side.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff6ed" />
+      <stop offset="100%" stop-color="#ffe8d4" />
+    </linearGradient>
+    <style>
+      .title { font: 700 56px 'Barlow', Arial, sans-serif; fill: #7c2d12; }
+      .subtitle { font: 500 30px 'Barlow', Arial, sans-serif; fill: #c2410c; }
+      .label { font: 600 28px 'Barlow', Arial, sans-serif; fill: #7c2d12; }
+      .hint { font: 500 24px 'Barlow', Arial, sans-serif; fill: #9a3412; }
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#ea580c" />
+    </marker>
+  </defs>
+
+  <rect width="900" height="1200" fill="url(#bg)" />
+  <rect x="40" y="40" width="820" height="1120" rx="36" fill="#ffffff" stroke="#fed7aa" stroke-width="4" />
+
+  <text x="80" y="130" class="title">Step 3: Control Landing</text>
+  <text x="80" y="178" class="subtitle">Absorb force and balance on one leg</text>
+
+  <line x1="110" y1="980" x2="790" y2="980" stroke="#64748b" stroke-width="8" stroke-linecap="round" />
+
+  <circle cx="560" cy="430" r="60" fill="#f8c9a1" stroke="#334155" stroke-width="5" />
+  <line x1="560" y1="490" x2="530" y2="690" stroke="#0f172a" stroke-width="16" stroke-linecap="round" />
+
+  <line x1="545" y1="560" x2="450" y2="620" stroke="#0f172a" stroke-width="14" stroke-linecap="round" />
+  <line x1="545" y1="560" x2="650" y2="625" stroke="#0f172a" stroke-width="14" stroke-linecap="round" />
+
+  <line x1="530" y1="690" x2="460" y2="820" stroke="#0f172a" stroke-width="16" stroke-linecap="round" />
+  <line x1="460" y1="820" x2="430" y2="960" stroke="#0f172a" stroke-width="16" stroke-linecap="round" />
+
+  <line x1="530" y1="690" x2="650" y2="770" stroke="#0f172a" stroke-width="16" stroke-linecap="round" />
+  <line x1="650" y1="770" x2="740" y2="810" stroke="#0f172a" stroke-width="16" stroke-linecap="round" />
+
+  <ellipse cx="430" cy="970" rx="50" ry="14" fill="#1e293b" />
+  <ellipse cx="740" cy="820" rx="50" ry="14" fill="#1e293b" />
+
+  <line x1="130" y1="965" x2="385" y2="965" stroke="#ea580c" stroke-width="6" marker-end="url(#arrow)" />
+  <text x="90" y="945" class="label">Stable base</text>
+
+  <line x1="710" y1="810" x2="780" y2="810" stroke="#ea580c" stroke-width="6" marker-end="url(#arrow)" />
+  <text x="680" y="790" class="label">Free leg up</text>
+
+  <text x="80" y="1080" class="hint">Pause briefly to own the landing, then bound back.</text>
+</svg>

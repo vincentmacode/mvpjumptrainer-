@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Tuck Jump Step 3 - Controlled Landing</title>
+  <desc id="desc">Athlete returns from tuck jump and lands softly with knees bent and hips back to absorb force.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff6ed" />
+      <stop offset="100%" stop-color="#ffe8d4" />
+    </linearGradient>
+    <style>
+      .title { font: 700 56px 'Barlow', Arial, sans-serif; fill: #7c2d12; }
+      .subtitle { font: 500 30px 'Barlow', Arial, sans-serif; fill: #c2410c; }
+      .label { font: 600 28px 'Barlow', Arial, sans-serif; fill: #7c2d12; }
+      .hint { font: 500 24px 'Barlow', Arial, sans-serif; fill: #9a3412; }
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#ea580c" />
+    </marker>
+  </defs>
+
+  <rect width="900" height="1200" fill="url(#bg)" />
+  <rect x="40" y="40" width="820" height="1120" rx="36" fill="#ffffff" stroke="#fed7aa" stroke-width="4" />
+
+  <text x="80" y="130" class="title">Step 3: Soft Landing</text>
+  <text x="80" y="178" class="subtitle">Absorb force through hips, knees, and ankles</text>
+
+  <line x1="120" y1="980" x2="780" y2="980" stroke="#64748b" stroke-width="8" stroke-linecap="round" />
+
+  <circle cx="460" cy="430" r="60" fill="#f8c9a1" stroke="#334155" stroke-width="5" />
+  <line x1="460" y1="490" x2="445" y2="690" stroke="#0f172a" stroke-width="16" stroke-linecap="round" />
+
+  <line x1="452" y1="550" x2="350" y2="620" stroke="#0f172a" stroke-width="14" stroke-linecap="round" />
+  <line x1="452" y1="550" x2="555" y2="620" stroke="#0f172a" stroke-width="14" stroke-linecap="round" />
+
+  <line x1="445" y1="690" x2="360" y2="810" stroke="#0f172a" stroke-width="16" stroke-linecap="round" />
+  <line x1="360" y1="810" x2="335" y2="960" stroke="#0f172a" stroke-width="16" stroke-linecap="round" />
+
+  <line x1="445" y1="690" x2="560" y2="795" stroke="#0f172a" stroke-width="16" stroke-linecap="round" />
+  <line x1="560" y1="795" x2="590" y2="960" stroke="#0f172a" stroke-width="16" stroke-linecap="round" />
+
+  <ellipse cx="335" cy="970" rx="50" ry="14" fill="#1e293b" />
+  <ellipse cx="590" cy="970" rx="50" ry="14" fill="#1e293b" />
+
+  <path d="M285 620 Q250 680 280 740" fill="none" stroke="#ea580c" stroke-width="6" marker-end="url(#arrow)" />
+  <text x="90" y="605" class="label">Arms balance</text>
+
+  <line x1="640" y1="760" x2="565" y2="800" stroke="#ea580c" stroke-width="6" marker-end="url(#arrow)" />
+  <text x="640" y="750" class="label">Knees track</text>
+
+  <line x1="620" y1="930" x2="545" y2="960" stroke="#ea580c" stroke-width="6" marker-end="url(#arrow)" />
+  <text x="620" y="920" class="label">Land quiet</text>
+
+  <text x="80" y="1080" class="hint">Reset posture before the next rep to keep each jump explosive.</text>
+</svg>

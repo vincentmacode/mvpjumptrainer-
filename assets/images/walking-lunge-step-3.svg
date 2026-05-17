@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Walking Lunge Step 3 - Lower and Drive Through</title>
+  <desc id="desc">Athlete lowers both knees, then drives through front leg to stand and continue walking.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff6ed"/>
+      <stop offset="100%" stop-color="#ffe8d4"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 56px 'Barlow', Arial, sans-serif; fill: #7c2d12; }
+      .sub { font: 500 30px 'Barlow', Arial, sans-serif; fill: #c2410c; }
+      .label { font: 600 27px 'Barlow', Arial, sans-serif; fill: #7c2d12; }
+      .hint { font: 500 24px 'Barlow', Arial, sans-serif; fill: #9a3412; }
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#ea580c" />
+    </marker>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <rect x="40" y="40" width="820" height="1120" rx="36" fill="#fff" stroke="#fed7aa" stroke-width="4"/>
+  <text x="80" y="130" class="title">Step 3: Drop and Rise</text>
+  <text x="80" y="178" class="sub">Lower under control, then push through front heel</text>
+  <line x1="120" y1="980" x2="780" y2="980" stroke="#64748b" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="500" cy="430" r="60" fill="#f8c9a1" stroke="#334155" stroke-width="5"/>
+  <line x1="500" y1="490" x2="470" y2="700" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="485" y1="560" x2="390" y2="650" stroke="#0f172a" stroke-width="14" stroke-linecap="round"/>
+  <line x1="485" y1="560" x2="580" y2="640" stroke="#0f172a" stroke-width="14" stroke-linecap="round"/>
+  <line x1="470" y1="700" x2="380" y2="820" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="380" y1="820" x2="340" y2="960" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="470" y1="700" x2="590" y2="780" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="590" y1="780" x2="690" y2="960" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <ellipse cx="340" cy="970" rx="48" ry="14" fill="#1e293b"/>
+  <ellipse cx="690" cy="970" rx="48" ry="14" fill="#1e293b"/>
+  <line x1="640" y1="760" x2="590" y2="780" stroke="#ea580c" stroke-width="6" marker-end="url(#arrow)"/>
+  <text x="640" y="750" class="label">Drive through</text>
+  <line x1="620" y1="920" x2="545" y2="955" stroke="#ea580c" stroke-width="6" marker-end="url(#arrow)"/>
+  <text x="620" y="910" class="label">Controlled rise</text>
+  <text x="80" y="1080" class="hint">Front knee stays over toes, chest stays proud.</text>
+</svg>

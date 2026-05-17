@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="t d">
+  <title id="t">Box Jump Step 3 - Soft Box Landing</title>
+  <desc id="d">Athlete lands softly on the box and stands with control before stepping down.</desc>
+  <defs>
+    <style>.label { font: 600 27px Arial; fill: #7c2d12; } .hint { font: 500 24px Arial; fill: #9a3412; }</style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><polygon points="0,0 10,5 0,10" fill="#ea580c"/></marker>
+  </defs>
+  <rect width="900" height="1200" fill="#fff2e8"/>
+  <rect x="40" y="40" width="820" height="1120" rx="28" fill="#fff" stroke="#fed7aa" stroke-width="4"/>
+  <text x="80" y="130" font-size="52" font-family="Arial" font-weight="700" fill="#7c2d12">Step 3: Stick Landing</text>
+  <text x="80" y="185" font-size="30" font-family="Arial" fill="#c2410c">Land softly and stabilize on the box</text>
+  <rect x="650" y="760" width="140" height="220" fill="#475569" rx="8"/>
+  <line x1="120" y1="980" x2="780" y2="980" stroke="#64748b" stroke-width="8"/>
+  <circle cx="700" cy="430" r="56" fill="#f8c9a1" stroke="#334155" stroke-width="5"/>
+  <line x1="700" y1="486" x2="700" y2="680" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="700" y1="680" x2="670" y2="760" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="700" y1="680" x2="730" y2="760" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <ellipse cx="670" cy="770" rx="30" ry="9" fill="#1e293b"/>
+  <ellipse cx="730" cy="770" rx="30" ry="9" fill="#1e293b"/>
+  <line x1="610" y1="770" x2="665" y2="770" stroke="#ea580c" stroke-width="6" marker-end="url(#arrow)"/>
+  <text x="520" y="760" class="label">Absorb landing</text>
+  <text x="80" y="1080" class="hint">Stand fully before stepping down for safety.</text>
+</svg>

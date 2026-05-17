@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Lower-Body Stretch Step 2 - Breathe And Hold</title>
+  <desc id="desc">Athlete breathes slowly while holding stretch for 20 to 30 seconds.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#effff6"/><stop offset="100%" stop-color="#d8f9e8"/></linearGradient>
+    <style>.title { font: 700 56px 'Barlow', Arial, sans-serif; fill: #052e16; } .subtitle { font: 500 30px 'Barlow', Arial, sans-serif; fill: #166534; } .label { font: 600 28px 'Barlow', Arial, sans-serif; fill: #052e16; } .hint { font: 500 24px 'Barlow', Arial, sans-serif; fill: #14532d; }</style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><polygon points="0,0 10,5 0,10" fill="#16a34a"/></marker>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <rect x="40" y="40" width="820" height="1120" rx="36" fill="#fff" stroke="#bbf7d0" stroke-width="4"/>
+  <text x="80" y="130" class="title">Step 2: Hold And Breathe</text>
+  <text x="80" y="178" class="subtitle">Long exhales help muscles relax</text>
+  <line x1="130" y1="980" x2="770" y2="980" stroke="#4b5563" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="500" cy="410" r="58" fill="#f8c9a1" stroke="#334155" stroke-width="5"/>
+  <line x1="500" y1="468" x2="480" y2="700" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="480" y1="700" x2="390" y2="820" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="480" y1="700" x2="590" y2="820" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <path d="M620 360 C650 340,680 380,650 400 C620 420,590 380,620 360" fill="none" stroke="#16a34a" stroke-width="6"/>
+  <text x="620" y="450" class="label">Slow breathing</text>
+  <text x="80" y="1080" class="hint">Relax jaw and shoulders while holding.</text>
+</svg>

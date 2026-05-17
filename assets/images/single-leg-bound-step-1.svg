@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="t d">
+  <title id="t">Single-Leg Bound Step 1 - Load On One Leg</title>
+  <desc id="d">Athlete balances on one leg and loads hip for forward propulsion.</desc>
+  <rect width="900" height="1200" fill="#e8f2ff"/>
+  <rect x="40" y="40" width="820" height="1120" rx="28" fill="#fff" stroke="#bfdbfe" stroke-width="4"/>
+  <text x="80" y="130" font-size="52" font-family="Arial" font-weight="700" fill="#0f172a">Step 1: Single-Leg Load</text>
+  <text x="80" y="185" font-size="30" font-family="Arial" fill="#1e3a8a">Brace core and hinge slightly</text>
+  <line x1="120" y1="980" x2="780" y2="980" stroke="#64748b" stroke-width="8"/>
+  <circle cx="430" cy="410" r="56" fill="#f8c9a1" stroke="#334155" stroke-width="5"/>
+  <line x1="430" y1="466" x2="410" y2="690" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="410" y1="690" x2="350" y2="820" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="350" y1="820" x2="320" y2="960" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="410" y1="690" x2="540" y2="760" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="540" y1="760" x2="640" y2="800" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+</svg>

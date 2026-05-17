@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="t d">
+  <title id="t">High-Knee Sprint Step 1 - Running Posture Setup</title>
+  <desc id="d">Athlete sets a tall sprint posture with slight forward lean, active arm position, and forefoot readiness.</desc>
+  <defs>
+    <style>
+      .title { font: 700 52px Arial, sans-serif; fill: #0f172a; }
+      .subtitle { font: 30px Arial, sans-serif; fill: #1e3a8a; }
+      .label { font: 24px Arial, sans-serif; fill: #0f172a; font-weight: 700; }
+      .hint { font: 24px Arial, sans-serif; fill: #1e40af; }
+    </style>
+    <marker id="arrow-blue" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#2563eb"/>
+    </marker>
+  </defs>
+
+  <rect width="900" height="1200" fill="#e8f2ff"/>
+  <rect x="40" y="40" width="820" height="1120" rx="28" fill="#ffffff" stroke="#bfdbfe" stroke-width="4"/>
+
+  <text class="title" x="80" y="130">Step 1: Sprint Posture</text>
+  <text class="subtitle" x="80" y="185">Tall chest, slight lean from ankles, elbows near 90 degrees</text>
+
+  <line x1="120" y1="980" x2="780" y2="980" stroke="#64748b" stroke-width="8"/>
+
+  <circle cx="450" cy="335" r="52" fill="#f8c9a1" stroke="#334155" stroke-width="5"/>
+  <line x1="450" y1="387" x2="442" y2="632" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+
+  <line x1="444" y1="470" x2="370" y2="555" stroke="#0f172a" stroke-width="14" stroke-linecap="round"/>
+  <line x1="444" y1="470" x2="525" y2="555" stroke="#0f172a" stroke-width="14" stroke-linecap="round"/>
+  <line x1="370" y1="555" x2="338" y2="650" stroke="#0f172a" stroke-width="14" stroke-linecap="round"/>
+  <line x1="525" y1="555" x2="554" y2="644" stroke="#0f172a" stroke-width="14" stroke-linecap="round"/>
+
+  <line x1="442" y1="632" x2="382" y2="795" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="442" y1="632" x2="515" y2="780" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="382" y1="795" x2="350" y2="966" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="515" y1="780" x2="585" y2="940" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+
+  <ellipse cx="350" cy="972" rx="42" ry="13" fill="#1d4ed8"/>
+  <ellipse cx="585" cy="947" rx="42" ry="13" fill="#93c5fd"/>
+
+  <line x1="605" y1="300" x2="475" y2="338" stroke="#2563eb" stroke-width="5" marker-end="url(#arrow-blue)"/>
+  <text class="label" x="620" y="294">Eyes forward</text>
+
+  <line x1="230" y1="515" x2="360" y2="560" stroke="#2563eb" stroke-width="5" marker-end="url(#arrow-blue)"/>
+  <text class="label" x="110" y="505">Arm swings cheek-to-hip</text>
+
+  <line x1="612" y1="700" x2="524" y2="782" stroke="#2563eb" stroke-width="5" marker-end="url(#arrow-blue)"/>
+  <text class="label" x="622" y="694">Front shin stays stiff</text>
+
+  <line x1="210" y1="875" x2="335" y2="963" stroke="#2563eb" stroke-width="5" marker-end="url(#arrow-blue)"/>
+  <text class="label" x="88" y="866">Push off ball of foot</text>
+
+  <rect x="88" y="1030" width="724" height="88" rx="16" fill="#dbeafe"/>
+  <text class="hint" x="112" y="1085">Cue: "Stay tall, lean slightly, strike under hips"</text>
+</svg>

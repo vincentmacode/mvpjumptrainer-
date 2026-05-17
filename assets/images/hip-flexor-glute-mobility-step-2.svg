@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="t d">
+  <title id="t">Hip Flexor and Glute Mobility Step 2 - Shift Forward</title>
+  <desc id="d">Athlete gently shifts hips forward to stretch hip flexor while staying upright.</desc>
+  <defs>
+    <style>.label { font: 600 27px Arial; fill: #052e16; } .hint { font: 500 24px Arial; fill: #14532d; }</style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><polygon points="0,0 10,5 0,10" fill="#16a34a"/></marker>
+  </defs>
+  <rect width="900" height="1200" fill="#eafced"/>
+  <rect x="40" y="40" width="820" height="1120" rx="28" fill="#fff" stroke="#bbf7d0" stroke-width="4"/>
+  <text x="80" y="130" font-size="52" font-family="Arial" font-weight="700" fill="#052e16">Step 2: Hip Shift</text>
+  <text x="80" y="185" font-size="30" font-family="Arial" fill="#166534">Glide pelvis forward with control</text>
+  <line x1="120" y1="980" x2="780" y2="980" stroke="#4b5563" stroke-width="8"/>
+  <circle cx="500" cy="390" r="56" fill="#f8c9a1" stroke="#334155" stroke-width="5"/>
+  <line x1="500" y1="446" x2="505" y2="670" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="505" y1="670" x2="585" y2="810" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="585" y1="810" x2="640" y2="960" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="505" y1="670" x2="420" y2="830" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <ellipse cx="420" cy="840" rx="54" ry="14" fill="#1e293b"/>
+  <line x1="640" y1="700" x2="575" y2="760" stroke="#16a34a" stroke-width="6" marker-end="url(#arrow)"/>
+  <text x="640" y="690" class="label">Hips forward</text>
+  <text x="80" y="1080" class="hint">Squeeze rear glute to protect low back.</text>
+</svg>

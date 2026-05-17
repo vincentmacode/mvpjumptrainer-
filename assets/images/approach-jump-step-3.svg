@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="t d">
+  <title id="t">Approach Jump Step 3 - Jump and Land</title>
+  <desc id="d">Athlete lifts to the rim target and lands softly to reset for next repetition.</desc>
+  <defs>
+    <style>.label { font: 600 27px Arial; fill: #7c2d12; } .hint { font: 500 24px Arial; fill: #9a3412; }</style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><polygon points="0,0 10,5 0,10" fill="#ea580c"/></marker>
+  </defs>
+  <rect width="900" height="1200" fill="#fff2e8"/>
+  <rect x="40" y="40" width="820" height="1120" rx="28" fill="#fff" stroke="#fed7aa" stroke-width="4"/>
+  <text x="80" y="130" font-size="52" font-family="Arial" font-weight="700" fill="#7c2d12">Step 3: Reach and Land</text>
+  <text x="80" y="185" font-size="30" font-family="Arial" fill="#c2410c">Jump tall, then absorb landing quietly</text>
+  <line x1="120" y1="980" x2="780" y2="980" stroke="#64748b" stroke-width="8"/>
+  <circle cx="480" cy="310" r="56" fill="#f8c9a1" stroke="#334155" stroke-width="5"/>
+  <line x1="480" y1="366" x2="480" y2="575" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="480" y1="575" x2="430" y2="715" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="480" y1="575" x2="530" y2="715" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <ellipse cx="430" cy="725" rx="40" ry="12" fill="#1e293b"/>
+  <ellipse cx="530" cy="725" rx="40" ry="12" fill="#1e293b"/>
+  <line x1="620" y1="710" x2="545" y2="725" stroke="#ea580c" stroke-width="6" marker-end="url(#arrow)"/>
+  <text x="620" y="700" class="label">Soft landing</text>
+  <text x="80" y="1080" class="hint">Reset posture before starting the next attempt.</text>
+</svg>

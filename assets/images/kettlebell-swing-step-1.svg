@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Kettlebell Swing Step 1 - Hinge Setup</title>
+  <desc id="desc">Athlete hinges at hips with neutral spine and kettlebell between legs.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#eef6ff"/><stop offset="100%" stop-color="#d9e9ff"/></linearGradient>
+    <style>
+      .title { font: 700 56px 'Barlow', Arial, sans-serif; fill: #0f172a; }
+      .subtitle { font: 500 30px 'Barlow', Arial, sans-serif; fill: #1e3a8a; }
+      .label { font: 600 28px 'Barlow', Arial, sans-serif; fill: #0f172a; }
+      .hint { font: 500 24px 'Barlow', Arial, sans-serif; fill: #334155; }
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><polygon points="0,0 10,5 0,10" fill="#2563eb"/></marker>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <rect x="40" y="40" width="820" height="1120" rx="36" fill="#fff" stroke="#bfdbfe" stroke-width="4"/>
+  <text x="80" y="130" class="title">Step 1: Hinge Back</text>
+  <text x="80" y="178" class="subtitle">Load hamstrings with kettlebell high in groin</text>
+  <line x1="130" y1="980" x2="770" y2="980" stroke="#64748b" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="450" cy="420" r="60" fill="#f8c9a1" stroke="#334155" stroke-width="5"/>
+  <line x1="450" y1="480" x2="430" y2="700" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="430" y1="700" x2="360" y2="820" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="430" y1="700" x2="520" y2="820" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="450" cy="820" r="28" fill="#111827"/>
+  <line x1="620" y1="700" x2="530" y2="760" stroke="#2563eb" stroke-width="6" marker-end="url(#arrow)"/>
+  <text x="620" y="690" class="label">Hip hinge</text>
+  <text x="80" y="1080" class="hint">Back stays flat; movement starts at hips.</text>
+</svg>

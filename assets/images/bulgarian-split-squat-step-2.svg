@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Bulgarian Split Squat Step 2 - Lower Down</title>
+  <desc id="desc">Athlete drops straight down with torso slightly forward and front knee tracking over toes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#effff6"/><stop offset="100%" stop-color="#d8f9e8"/></linearGradient>
+    <style>
+      .title { font: 700 56px 'Barlow', Arial, sans-serif; fill: #052e16; }
+      .subtitle { font: 500 30px 'Barlow', Arial, sans-serif; fill: #166534; }
+      .label { font: 600 28px 'Barlow', Arial, sans-serif; fill: #052e16; }
+      .hint { font: 500 24px 'Barlow', Arial, sans-serif; fill: #14532d; }
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><polygon points="0,0 10,5 0,10" fill="#16a34a"/></marker>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <rect x="40" y="40" width="820" height="1120" rx="36" fill="#fff" stroke="#bbf7d0" stroke-width="4"/>
+  <text x="80" y="130" class="title">Step 2: Controlled Descent</text>
+  <text x="80" y="178" class="subtitle">Drop hips down, keep front heel rooted</text>
+  <rect x="620" y="830" width="170" height="30" rx="10" fill="#475569"/>
+  <line x1="130" y1="980" x2="770" y2="980" stroke="#4b5563" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="500" cy="430" r="58" fill="#f8c9a1" stroke="#334155" stroke-width="5"/>
+  <line x1="500" y1="488" x2="475" y2="720" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="475" y1="720" x2="385" y2="830" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="385" y1="830" x2="350" y2="960" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="475" y1="720" x2="590" y2="840" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="590" y1="840" x2="665" y2="850" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="650" y1="760" x2="560" y2="815" stroke="#16a34a" stroke-width="6" marker-end="url(#arrow)"/>
+  <text x="650" y="750" class="label">Knee tracks</text>
+  <text x="80" y="1080" class="hint">Keep pressure through full front foot.</text>
+</svg>

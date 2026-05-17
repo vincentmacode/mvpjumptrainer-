@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Light Cardio Step 3 - Cool Down</title>
+  <desc id="desc">Athlete gradually lowers pace to finish recovery session.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#fff6ed"/><stop offset="100%" stop-color="#ffe8d4"/></linearGradient>
+    <style>.title { font: 700 56px 'Barlow', Arial, sans-serif; fill: #7c2d12; } .subtitle { font: 500 30px 'Barlow', Arial, sans-serif; fill: #c2410c; } .label { font: 600 28px 'Barlow', Arial, sans-serif; fill: #7c2d12; } .hint { font: 500 24px 'Barlow', Arial, sans-serif; fill: #9a3412; }</style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><polygon points="0,0 10,5 0,10" fill="#ea580c"/></marker>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <rect x="40" y="40" width="820" height="1120" rx="36" fill="#fff" stroke="#fed7aa" stroke-width="4"/>
+  <text x="80" y="130" class="title">Step 3: Slow Finish</text>
+  <text x="80" y="178" class="subtitle">Reduce effort for final 3-5 minutes</text>
+  <line x1="130" y1="980" x2="770" y2="980" stroke="#64748b" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="450" cy="390" r="58" fill="#f8c9a1" stroke="#334155" stroke-width="5"/>
+  <line x1="450" y1="448" x2="450" y2="660" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="450" y1="530" x2="370" y2="620" stroke="#0f172a" stroke-width="14" stroke-linecap="round"/>
+  <line x1="450" y1="530" x2="530" y2="620" stroke="#0f172a" stroke-width="14" stroke-linecap="round"/>
+  <line x1="450" y1="660" x2="400" y2="820" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="450" y1="660" x2="510" y2="820" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <ellipse cx="390" cy="930" rx="70" ry="20" fill="none" stroke="#334155" stroke-width="8"/>
+  <ellipse cx="520" cy="930" rx="70" ry="20" fill="none" stroke="#334155" stroke-width="8"/>
+  <line x1="620" y1="900" x2="545" y2="920" stroke="#ea580c" stroke-width="6" marker-end="url(#arrow)"/>
+  <text x="620" y="890" class="label">Ease down</text>
+  <text x="80" y="1080" class="hint">Finish feeling better than when you started.</text>
+</svg>

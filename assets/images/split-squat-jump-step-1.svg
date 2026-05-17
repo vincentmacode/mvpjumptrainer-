@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="t d">
+  <title id="t">Split Squat Jump Step 1 - Split Stance Setup</title>
+  <desc id="d">Athlete sets into split stance with front knee bent and rear heel lifted.</desc>
+  <rect width="900" height="1200" fill="#e8f2ff"/>
+  <rect x="40" y="40" width="820" height="1120" rx="28" fill="#fff" stroke="#bfdbfe" stroke-width="4"/>
+  <text x="80" y="130" font-size="52" font-family="Arial" font-weight="700" fill="#0f172a">Step 1: Split Setup</text>
+  <text x="80" y="185" font-size="30" font-family="Arial" fill="#1e3a8a">Lower into controlled split stance</text>
+  <line x1="120" y1="980" x2="780" y2="980" stroke="#64748b" stroke-width="8"/>
+  <circle cx="470" cy="400" r="56" fill="#f8c9a1" stroke="#334155" stroke-width="5"/>
+  <line x1="470" y1="456" x2="450" y2="690" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="450" y1="690" x2="370" y2="810" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="370" y1="810" x2="320" y2="960" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="450" y1="690" x2="560" y2="790" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+  <line x1="560" y1="790" x2="650" y2="960" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+</svg>

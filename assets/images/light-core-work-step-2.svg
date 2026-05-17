@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Light Core Step 2 - Controlled Reps</title>
+  <desc id="desc">Athlete performs smooth reps while keeping pelvis and ribs aligned.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#effff6"/><stop offset="100%" stop-color="#d8f9e8"/></linearGradient>
+    <style>.title { font: 700 56px 'Barlow', Arial, sans-serif; fill: #052e16; } .subtitle { font: 500 30px 'Barlow', Arial, sans-serif; fill: #166534; } .label { font: 600 28px 'Barlow', Arial, sans-serif; fill: #052e16; } .hint { font: 500 24px 'Barlow', Arial, sans-serif; fill: #14532d; }</style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><polygon points="0,0 10,5 0,10" fill="#16a34a"/></marker>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <rect x="40" y="40" width="820" height="1120" rx="36" fill="#fff" stroke="#bbf7d0" stroke-width="4"/>
+  <text x="80" y="130" class="title">Step 2: Move With Control</text>
+  <text x="80" y="178" class="subtitle">Slow tempo and clean positions</text>
+  <line x1="130" y1="980" x2="770" y2="980" stroke="#4b5563" stroke-width="8"/>
+  <circle cx="370" cy="620" r="48" fill="#f8c9a1" stroke="#334155" stroke-width="5"/>
+  <line x1="405" y1="640" x2="585" y2="670" stroke="#0f172a" stroke-width="16"/>
+  <line x1="585" y1="670" x2="745" y2="720" stroke="#0f172a" stroke-width="16"/>
+  <line x1="745" y1="720" x2="805" y2="860" stroke="#0f172a" stroke-width="16"/>
+  <line x1="485" y1="660" x2="430" y2="770" stroke="#0f172a" stroke-width="14"/>
+  <line x1="535" y1="670" x2="480" y2="780" stroke="#0f172a" stroke-width="14"/>
+  <line x1="620" y1="640" x2="560" y2="655" stroke="#16a34a" stroke-width="6" marker-end="url(#arrow)"/>
+  <text x="620" y="630" class="label">Ribs down</text>
+  <text x="80" y="1080" class="hint">Stop each rep before form breaks.</text>
+</svg>
